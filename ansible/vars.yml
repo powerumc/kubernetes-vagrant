@@ -1,0 +1,8 @@
+---
+PACKAGES:
+  - vim
+  - htop
+  - docker.io
+  - kubelet
+  - kubeadm
+  - kubectl
