@@ -1,9 +1,10 @@
 # kubernetes-vagrant
 Kubernetes 를 실습할 수 있는 Vagrant 환경 구성
 
-1. virtual box 및 vagrant 설치
+1. virtual box, vagrant, ansible 설치
 
-http://sourabhbajaj.com/mac-setup/Vagrant/README.html
+[Virtual Box and vagrant](http://sourabhbajaj.com/mac-setup/Vagrant/README.html)
+[Ansible](https://hvops.com/articles/ansible-mac-osx/)
 
 2. git clone
 
@@ -13,3 +14,5 @@ cd kubernetes-vagrant
 ```
 
 3. `vagrant up`
+
+4. 
